@@ -151,4 +151,4 @@ $
 
 ### Authors
 
-- **PerfectPearl** [GitHub](https://github.com/Ojobumiche) ~ [Email](perfectpearl2030@gmail.com)
+- **PerfectPearl** [GitHub](https://github.com/PearlPerfect) ~ [Email](perfectpearl2030@gmail.com)

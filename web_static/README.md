@@ -1,1 +1,0 @@
-AirBnB Static files
